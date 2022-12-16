@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author NAMO
+ *
+ */
+module Sample {
+}
